@@ -1,0 +1,69 @@
+
+.weather-forecast-min{
+    opacity: 60%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.weather-forecast-max{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:500;
+}
+
+.sample-cities{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.days-ahead{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.search-city{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.search-button{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.current-city{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:400;
+}
+
+.current-temp{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:300;
+}
+
+.current-date-time{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.current-stats{
+    font-family: 'Montserrat', sans-serif;
+    opacity: 80%;
+}
+
+.day{
+    font-family: 'Montserrat', sans-serif
+}
+
+.units{
+    display:inline;
+    vertical-align: top;
+    color: black;
+}
+
+#fahrenheit-link{
+    display:inline;
+
+}
+
+h1.current-temp{
+    display:inline;
+}
+
+div.card{
+    background: radial-gradient(circle at 10% 20%, rgb(248, 213, 214) 0%, rgb(243, 242, 229) 90%);
+
+}
