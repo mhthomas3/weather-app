@@ -59,6 +59,10 @@
 
 }
 
+.git-hub-link{
+    font-size: 11px;
+}
+
 h1.current-temp{
     display:inline;
 }
